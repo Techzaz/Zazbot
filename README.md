@@ -2,7 +2,7 @@
 
 <h1 align="center">TECHZAZ BOT<br></h1>
 <p align="center">
-<img src="./XeonMedia/video/tech.gif" alt="animated" width="540" height="280" />
+<img src="./XeonMedia/video/tech.gif" alt="animated" width="800" height="200" />
 </p>
 
 <p align="center">
