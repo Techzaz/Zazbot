@@ -13,13 +13,7 @@ TECHZAZ BOT Multi Device is a automated whatsapp bot created by <a href="https:/
 
 ## ```Connect With Me```
 <p align="center">
-<script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
-        <script>
-          var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"Contact TechZaz","cornerRadius":40,"marginBottom":20,"marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"923184365151","welcomeMessage":"Hi bro!","zIndex":999999,"btnColorScheme":"light"};
-          window.onload = () => {
-            _waEmbed(wa_btnSetting);
-          };
-        </script>
+<a aria-label="Chat on WhatsApp" href="https://wa.me/923184365151"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.png" />
       
 </p>
 
