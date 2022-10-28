@@ -2,7 +2,7 @@
 
 <h1 align="center">TECHZAZ BOT<br></h1>
 <p align="center">
-       <IMG SRC="https://github.com/Techzaz/Zazbot/tree/master/XeonMedia/video/tech.gif">
+       <IMG SRC="./XeonMedia/video/tech.gif">
 <img src="https://github.com/Techzaz/Zazbot/tree/master/XeonMedia/video/tech.gif" alt="animated" width="540" height="280" />
 </p>
 
